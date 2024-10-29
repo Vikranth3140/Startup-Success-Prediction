@@ -1,0 +1,5 @@
+              Feature    Score
+             latitude 4.199058
+            is_top500 1.802778
+               has_VC 1.676136
+age_last_funding_year 1.247547
