@@ -1,0 +1,56 @@
+RangeIndex: 923 entries, 0 to 922
+
+dtypes: float64(7), int64(28), object(14)
+
+
+ #   Column                    Non-Null Count  Dtype  
+---  ------                    --------------  -----  
+ 0   Unnamed: 0                923 non-null    int64  
+ 1   state_code                923 non-null    object 
+ 2   latitude                  923 non-null    float64
+ 3   longitude                 923 non-null    float64
+ 4   zip_code                  923 non-null    object 
+ 5   id                        923 non-null    object 
+ 6   city                      923 non-null    object 
+ 7   Unnamed: 6                430 non-null    object 
+ 8   name                      923 non-null    object 
+ 9   labels                    923 non-null    int64  
+ 10  founded_at                923 non-null    object 
+ 11  closed_at                 335 non-null    object 
+ 12  first_funding_at          923 non-null    object 
+ 13  last_funding_at           923 non-null    object 
+ 14  age_first_funding_year    923 non-null    float64
+ 15  age_last_funding_year     923 non-null    float64
+ 16  age_first_milestone_year  771 non-null    float64
+ 17  age_last_milestone_year   771 non-null    float64
+ 18  relationships             923 non-null    int64  
+ 19  funding_rounds            923 non-null    int64  
+ 20  funding_total_usd         923 non-null    int64  
+ 21  milestones                923 non-null    int64  
+ 22  state_code.1              922 non-null    object 
+ 23  is_CA                     923 non-null    int64  
+ 24  is_NY                     923 non-null    int64  
+ 25  is_MA                     923 non-null    int64  
+ 26  is_TX                     923 non-null    int64  
+ 27  is_otherstate             923 non-null    int64  
+ 28  category_code             923 non-null    object 
+ 29  is_software               923 non-null    int64  
+ 30  is_web                    923 non-null    int64  
+ 31  is_mobile                 923 non-null    int64  
+ 32  is_enterprise             923 non-null    int64  
+ 33  is_advertising            923 non-null    int64  
+ 34  is_gamesvideo             923 non-null    int64  
+ 35  is_ecommerce              923 non-null    int64  
+ 36  is_biotech                923 non-null    int64  
+ 37  is_consulting             923 non-null    int64  
+ 38  is_othercategory          923 non-null    int64  
+ 39  object_id                 923 non-null    object 
+ 40  has_VC                    923 non-null    int64  
+ 41  has_angel                 923 non-null    int64  
+ 42  has_roundA                923 non-null    int64  
+ 43  has_roundB                923 non-null    int64  
+ 44  has_roundC                923 non-null    int64  
+ 45  has_roundD                923 non-null    int64  
+ 46  avg_participants          923 non-null    float64
+ 47  is_top500                 923 non-null    int64  
+ 48  status                    923 non-null    object 
