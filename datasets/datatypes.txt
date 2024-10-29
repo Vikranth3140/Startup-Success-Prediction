@@ -1,9 +1,10 @@
-RangeIndex: 923 entries, 0 to 922
+TYPES
 
-dtypes: float64(7), int64(28), object(14)
+int64(28)
+object(14)
+float64(7)
 
-
- #   Column                    Non-Null Count  Dtype  
+#   Column                    Non-Null Count  Dtype  
 ---  ------                    --------------  -----  
  0   Unnamed: 0                923 non-null    int64  
  1   state_code                923 non-null    object 
