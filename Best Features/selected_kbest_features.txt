@@ -1,0 +1,10 @@
+                 Feature     Score
+                   is_TX 22.420000
+           is_enterprise 18.519444
+                latitude  4.199058
+              has_roundA  2.562626
+               is_top500  1.802778
+age_first_milestone_year  1.680871
+                  has_VC  1.676136
+   age_last_funding_year  1.247547
+ age_last_milestone_year  1.199524
