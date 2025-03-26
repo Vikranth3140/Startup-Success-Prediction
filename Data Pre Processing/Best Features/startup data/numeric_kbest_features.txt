@@ -1,0 +1,11 @@
+               Feature      Score
+         relationships 137.514122
+            milestones 111.227304
+             is_top500  98.374244
+        funding_rounds  40.836058
+      avg_participants  33.001671
+            state_code   5.687407
+age_first_funding_year   5.299387
+ age_last_funding_year   5.034145
+             has_angel   4.912630
+            Unnamed: 0   4.370183

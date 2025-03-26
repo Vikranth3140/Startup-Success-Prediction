@@ -1,0 +1,13 @@
+               Feature    Score
+              latitude 4.199058
+             is_top500 1.802778
+                has_VC 1.676136
+ age_last_funding_year 1.247547
+             has_angel 0.763184
+            milestones 0.605927
+age_first_funding_year 0.503448
+      avg_participants 0.037003
+         relationships 0.034990
+        funding_rounds 0.031100
+     funding_total_usd 0.022505
+             longitude 0.012604
